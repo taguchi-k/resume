@@ -51,17 +51,21 @@
 ## 業務外活動
 
 - **自作ブログ作成**
-  - https://github.com/taguchi-k/kentaro.app
-  - https://kentaro.app/posts/release-blog
+  - リポジトリ
+    - [https://github.com/taguchi-k/kentaro.app](https://github.com/taguchi-k/kentaro.app)
+  - ブログ
+    - [https://kentaro.app/posts/release-blog](https://kentaro.app/posts/release-blog)
 - **Chrome 拡張作成**
-  - https://github.com/taguchi-k/chrome-extension-send-link-to-slack
-  - [リンクを Slack に送る 🚀 という Chrome 拡張を作った](https://note.com/kenkenken_3/n/nd6b2291ab355)
+  - リポジトリ
+    - [https://github.com/taguchi-k/chrome-extension-send-link-to-slack](https://github.com/taguchi-k/chrome-extension-send-link-to-slack)
+  - note: リンクを Slack に送る 🚀 という Chrome 拡張を作った
+    - [https://note.com/kenkenken_3/n/nd6b2291ab355](https://note.com/kenkenken_3/n/nd6b2291ab355)
 
 ### 勉強会での登壇
 
 - **potatotips #57**
   - Empty State 表示共通化の事例
-    - https://speakerdeck.com/kentarotaguchi/case-of-empty-state-commonization
+    - [https://speakerdeck.com/kentarotaguchi/case-of-empty-state-commonization](https://speakerdeck.com/kentarotaguchi/case-of-empty-state-commonization)
 
 ---
 
@@ -133,8 +137,7 @@
 
 #### その他エンジニアの取り組み
 
-- 社内で LT 会、勉強会、輪読会等を実施
-  - https://tech.toreta.in/entry/2020/12/24/110928
+- [社内で LT 会、勉強会、輪読会等を実施](https://tech.toreta.in/entry/2020/12/24/110928)
 
 ### 株式会社スマートテック・ベンチャーズ（2016/10〜2018/02）
 
@@ -216,6 +219,7 @@
 ---
 
 ### エンジニア以前
+
 以下エンジニアになる前の経歴です。
 
 ### 個人事業主（2014/01〜2014/08）
