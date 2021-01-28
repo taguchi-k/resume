@@ -1,4 +1,4 @@
-# { name } resume
+# Kentaro's resume
 
 ## Sample
 
