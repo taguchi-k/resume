@@ -54,21 +54,16 @@
 ## 業務外活動
 
 - **自作ブログ作成**
-  - リポジトリ
-    - [https://github.com/taguchi-k/kentaro.app](https://github.com/taguchi-k/kentaro.app)
-  - ブログ
-    - [https://kentaro.app/posts/release-blog](https://kentaro.app/posts/release-blog)
+  - [リポジトリ](https://github.com/taguchi-k/kentaro.app)
+  - [ブログ](https://kentaro.app/posts/release-blog)
 - **Chrome 拡張作成**
-  - リポジトリ
-    - [https://github.com/taguchi-k/chrome-extension-send-link-to-slack](https://github.com/taguchi-k/chrome-extension-send-link-to-slack)
-  - note: リンクを Slack に送る 🚀 という Chrome 拡張を作った
-    - [https://note.com/kenkenken_3/n/nd6b2291ab355](https://note.com/kenkenken_3/n/nd6b2291ab355)
+  - [リポジトリ](https://github.com/taguchi-k/chrome-extension-send-link-to-slack)
+  - [note: リンクを Slack に送る 🚀 という Chrome 拡張を作った](https://note.com/kenkenken_3/n/nd6b2291ab355)
 
 ### 勉強会での登壇
 
 - **potatotips #57**
-  - Empty State 表示共通化の事例
-    - [https://speakerdeck.com/kentarotaguchi/case-of-empty-state-commonization](https://speakerdeck.com/kentarotaguchi/case-of-empty-state-commonization)
+  - [Empty State 表示共通化の事例](https://speakerdeck.com/kentarotaguchi/case-of-empty-state-commonization)
 
 ---
 
@@ -94,8 +89,8 @@
 ### 株式会社トレタ（2018/03〜現在）
 
 #### トレタ O/X toC モバイルオーダーサービス Web アプリ React化開発（2021/9〜現在）
-- トレタ O/X について
-  - https://tech.toreta.in/entry/2021/08/10/144917
+- [トレタ O/X について](https://tech.toreta.in/entry/2021/08/10/144917)
+
 - **プロジェクト規模：**
   - 4〜7 人チーム
 - **役割：**
